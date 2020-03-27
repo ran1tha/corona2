@@ -21,9 +21,9 @@ To skip all the technicalities and go directly to the predictions [click here!](
 
 * **Primary data source is [The Epidemiological Unit, Ministry of Health, Sri Lanka.](epid.gov.lk)** 
 
-* **The number of Quarantined people discussed here are the ones housed at quarantine centres. Home-quarantined individuals are regarded as part of the wider (susceptible) community. The quarantined individuals are calculated based on the data found [here.](http://www.epid.gov.lk/web/images/pdf/Circulars/Corona_virus/covid-19%20exposure%20history.pdf) It is assumed that the exposed individuals are all taken into quarantine centres to be quarantined almost instantaneously. Data after 22/03/2020 is not available in the source. Therefore, a regression algorithm was used to extrapolate data**
+* **The number of Quarantined people discussed here are the ones housed at quarantine centres. Home-quarantined individuals are regarded as part of the wider (susceptible) community. The quarantined individuals are calculated based on the data found [here.](http://www.epid.gov.lk/web/images/pdf/Circulars/Corona_virus/covid-19%20exposure%20history.pdf) It is assumed that the exposed individuals are all taken into quarantine centres to be quarantined almost instantaneously. Data after 22/03/2020 is not available in the source. Therefore, a regression algorithm was used to extrapolate data.**
 
-* **If someone can assist me in finding reliable data regarding the number of quarantined people please contact me at ranitha@ieee.org. A more reliable prediction can be made then.**
+* **If someone can assist me in finding reliable data regarding the number of quarantined people please contact me at ranitha@ieee.org. A more accurate prediction can be made through reliable data.**
 
 * **Initial guesses for all the parameters were made by averaging the parameters of China when the situation in China showed a similar behaviour like ours. Data taken from [paper 1.](https://www.ijidonline.com/article/S1201-9712(20)30137-5/fulltext)**
 
