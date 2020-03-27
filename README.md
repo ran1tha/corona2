@@ -4,7 +4,7 @@
 Published on: 28/03/2020
 
 
-This repository is based on an extension of the model developed [here](github.com/ran1tha/corona). <br>
+This repository is based on an extension of the model developed [here](https://github.com/ran1tha/corona). <br>
 
 To get a basic idea of how epidemiological models are designed, I strongly suggest you refer to [my previous repository](github.com/ran1tha/corona). The model which is discussed there is designed with fewer parameters and states and hence less complicated.<br>
 
@@ -31,7 +31,7 @@ To skip all the technicalities and go directly to the predictions [click here!](
 
 ## The Model
 
-This model is a modified SIR epidemiological model. To understand how SIR models work [read this.](github.com/ran1tha/corona) <br>
+This model is a modified SIR epidemiological model. To understand how SIR models work [read this.](https://github.com/ran1tha/corona) <br>
 
 Modifications are done to include quarantined individuals, suspected cases and unidentified infectives which basic SIR models fail to include. <br>
 
