@@ -159,19 +159,19 @@ As of today (27th Marth 2020), there are,
 The black lines indicate the best fitting curve while the grey area indicates the 95% confidence interval based on the available data. Actual data is also plotted (circles) for comparison.
 
 **Confirmed Active cases. *H(t)***
-![](images/active) <br>
+![](images/active.png) <br>
 
 **Recovered cases cases. *R(t)***
-![](images/recovered) <br>
+![](images/recovered.png) <br>
 
 **Unidentified Active cases. *H(t)***
-![](images/unidentified) <br>
+![](images/unidentified.png) <br>
 
 **Suspected Cases. *B(t)***
-![](images/suspected) <br>
+![](images/suspected.png) <br>
 
 **Quarantined people. *H(t)***
-![](images/quarantined) <br>
+![](images/quarantined.png) <br>
 
 ### How do the changes in parameters affect the forecast?
 
