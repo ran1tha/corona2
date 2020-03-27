@@ -75,14 +75,17 @@ The transition rate of Exposed individuals into the Unidentified infectives clas
 Unidentified active infectives are identified to be infectives at a rate of ***delta.*** Also, the rate of recovery is set to be ***gamma*** and the rate of mortality is ***alpha.***
 
 Now the information above can be summarized into a set of simultaneous nonlinear ordinary differential equations as below,
-
-![](images/S.png) <br>
-![](images/E.png) <br>
-![](images/I.png) <br>
-![](images/B.png) <br>
-![](images/Sq.png) <br>
-![](images/H.png) <br>
-![](images/R.png) <br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/S.png) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/E.png) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/I.png) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/B.png) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/Sq.png) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/H.png) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/R.png) <br>
+<br>
+<br>
 
 
 The data available,
