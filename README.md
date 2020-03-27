@@ -21,7 +21,7 @@ To skip all the technicalities and go directly to the predictions [click here!](
 
 * **Primary data source is [The Epidemiological Unit, Ministry of Health, Sri Lanka.](epid.gov.lk)** 
 
-* **The number of Quarantined people discussed here are the ones housed at quarantine centres. Home-quarantined individuals are regarded as part of the wider (susceptible) community. The quarantined individuals are calculated based on the data found [here.](http://www.epid.gov.lk/web/images/pdf/Circulars/Corona_virus/covid-19%20exposure%20history.pdf) It is assumed that the exposed individuals are all taken into quarantine centres to be quarantined almost instantaneously.**
+* **The number of Quarantined people discussed here are the ones housed at quarantine centres. Home-quarantined individuals are regarded as part of the wider (susceptible) community. The quarantined individuals are calculated based on the data found [here.](http://www.epid.gov.lk/web/images/pdf/Circulars/Corona_virus/covid-19%20exposure%20history.pdf) It is assumed that the exposed individuals are all taken into quarantine centres to be quarantined almost instantaneously. Data after 22/03/2020 is not available in the source. Therefore, a regression algorithm was used to extrapolate data**
 
 * **If someone can assist me in finding reliable data regarding the number of quarantined people please contact me at ranitha@ieee.org. A more reliable prediction can be made then.**
 
@@ -76,17 +76,24 @@ Unidentified active infectives are identified to be infectives at a rate of ***d
 
 Now the information above can be summarized into a set of simultaneous nonlinear ordinary differential equations as below,
 
-![](images/equation.png) <br>
+![](images/S.png) <br>
+![](images/E.png) <br>
+![](images/I.png) <br>
+![](images/B.png) <br>
+![](images/Sq.png) <br>
+![](images/H.png) <br>
+![](images/R.png) <br>
 
-The data available are,
 
-* Daily confirmed infective population (H)
+The data available,
 
-* Daily recovered population (R)
+* Daily confirmed infective population - *H(t)*
 
-* Daily suspected population (B)
+* Daily recovered population - *R(t)*
 
-* Daily quarantined susceptible population (Sq)
+* Daily suspected population - *B(t)*
+
+* Daily quarantined susceptible population - *Sq(t)* 
 
 The goal is to identify each parameter of these equations that best match the available data. Additionally, the initial Unidentified infectives and the initial Exposed population are also unknown.
 
