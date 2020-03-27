@@ -85,8 +85,8 @@ Now the information above can be summarized into a set of simultaneous nonlinear
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/H.png) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/R.png) <br>
 <br>
+Where N is the total population in Sri Lanka. <br>
 <br>
-
 
 The data available,
 
