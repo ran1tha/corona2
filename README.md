@@ -6,7 +6,7 @@ Published on: 28/03/2020
 
 This repository is based on an extension of the model developed [here](https://github.com/ran1tha/corona). <br>
 
-To get a basic idea of how epidemiological models are designed, I strongly suggest you refer to [my previous repository](github.com/ran1tha/corona). The model which is discussed there is designed with fewer parameters and states and hence less complicated.<br>
+To get a basic idea of how epidemiological models are designed, I strongly suggest you refer the above link. The model which is discussed there is designed with fewer parameters and states and hence less complicated.<br>
 
 The content discussed here is at large dependent on the information found on [paper 1](https://www.ijidonline.com/article/S1201-9712(20)30137-5/fulltext) and [paper 2](https://www.researchgate.net/publication/338857202_Estimation_of_the_Transmission_Risk_of_the_2019-nCov_and_Its_Implication_for_Public_Health_Interventions). <br>
 
@@ -17,7 +17,7 @@ To skip all the technicalities and go directly to the predictions [click here!](
 
 **DISCLAIMER**
 
-* **Data considered here is recorded starting from 15th March 2020. [This is when WHO recognized Sri Lanka as a country that spreads COVID-19 via Local Transmission.](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200315-sitrep-55-covid-19.pdf?sfvrsn=33daa5cb_8)** <br>
+* **Data considered in this repo is recorded starting from 15th March 2020. [This is when WHO recognized Sri Lanka as a country that spreads COVID-19 via Local Transmission.](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200315-sitrep-55-covid-19.pdf?sfvrsn=33daa5cb_8)** <br>
 
 * **Primary data source is [The Epidemiological Unit, Ministry of Health, Sri Lanka.](epid.gov.lk)** 
 
