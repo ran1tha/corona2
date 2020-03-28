@@ -225,7 +225,7 @@ Given below are the forecasts for the next 50 days where,
 
 When the confirmed cases are considered it is found out that reducing the contact rate had the highest impact. It is important to keep the number of confirmed patients below a threshold value because hospitals can run out of capacity to accommodate new patients. The general public can contribute to this by staying indoors and practising social distancing. The government can however forcibly enhance social distancing through curfews and banning public gatherings. Also, better hygienic practices can decrease the probability of transmission.
 
-On the other hand, the factor which contributes to reducing the number of unidentified infectives is the quarantine proportion. Doubling this factor dramatically dropped down the curve. Steps can be taken to trace the contacts of infected individuals and to quarantine them immediately. The longer they stay in the community, the more people get infected under the nose.
+On the other hand, the dominating factor which contributes to reducing the number of unidentified infectives is the quarantine proportion. Doubling this factor dramatically dropped down the curve. Steps can be taken to trace the contacts of infected individuals and to quarantine them immediately. The longer they stay in the community, the more people get infected under the nose.
 
 A concerned reader may investigate the provided information in determining which parameter(s) he or she can optimize in order to control and contain the COVID-19 outbreak in Sri Lanka.
 
