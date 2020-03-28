@@ -191,7 +191,7 @@ The contact rate is the rate at which people comes into contact with each other.
 At present, the estimated contact rate is 2.9209. Here are the forecasts for the next 50 days when the contact rate is doubled and halved.
 ![](images/c.png) <br>
 
-It is visible that when the contact rate is cut half, both confirmed and unidentified infectives dramatically deplete. The opposite happens when the contact rate is doubled. Contact rate can be controlled by social distancing. It is worthwhile to notice that when the contact rate is reduced the recovered number of people slightly rose, which is unintuitive.
+It is visible that when the contact rate is cut half, both confirmed and unidentified infectives dramatically deplete. The opposite happens when the contact rate is doubled. Contact rate can be controlled by social distancing. 
 
 **Changing the quarantined proportion**
 
@@ -199,7 +199,7 @@ Quarantined proportion is the proportion of people quarantined given that they w
 At present, the estimated quarantined proportion is 0.7199. Here are the forecasts for the next 50 days when the quarantined proportion is doubled and halved.
 ![](images/q.png) <br>
 
-When the quarantined rate is doubled, both confirmed and unidentified infectives dropped down. The rate of quarantining can be increased by strengthening contact tracing. However, it is also important to keep the quarantine rate below a threshold value because quarantined people may exceed the capacity quarantine centres can accommodate. 
+When the quarantined rate is doubled, both confirmed and unidentified infectives dropped down considerably. The rate of quarantining can be increased by strengthening contact tracing. However, it is also important to keep the quarantine rate below a threshold value because quarantined people may exceed the capacity quarantine centres can accommodate. 
 
 **Changing the detection rate and recovery rate**
 
@@ -208,7 +208,8 @@ The recovery rate is the rate at which patients recover.
 At present, the estimated detection rate is 0.027676 and the estimated recovery rate is 0.016662. Here are the forecasts for the next 50 days when the detection rate and the recovery rate are doubled. 
 ![](images/bgamma.png) <br>
 
-A considerable decrease in the identified cases was shown due to the recovery rate being high. Also, the rate of testing of the suspected cases increased the number of active cases. Since there are only a fewer number of confirmed cases in hospitals, it is better to increase the suspect testing rate and test as much as cases possible. If the suspect testing rate is increased in the future, the hospitals may run into the problem of not having enough capacity to accommodate new patients. Increasing these two parameters had no effect on the number of unidentified active cases. Hence the plots overlap with each other.
+The number of recovered patients was increased as a result of increasing the recovery rate and the rate at which tests are carried out on the suspected cases. 
+
 
 **Which parameter has the highest impact?**
 
@@ -228,7 +229,7 @@ By analysing the plots the best practice which can be taken to minimize this pan
 
 It is important not to underestimate the effect of social distancing. Social distancing reduces the contact rate which in turn leads to a lesser number of infectives. The general public can contribute to reducing the contact rate by staying indoors. Also, better hygienic practices can decrease the probability of transmission.
 
-The rate at which suspected cases are tested for COVID-19 is also important to minimize the impact. Innovative steps can be taken by researchers to increase this detection rate. This can lead to a decrease in the identified active infectives. Also, by increasing the rate of recovery a higher number of people are discharged from the hospitals quickly and hence the hospital capacity to accommodate infective people is not exceeded. Again, researchers can work towards increasing the recovery rate. 
+The rate at which suspected cases are tested for COVID-19 has an impact in patient recovery. Innovative steps can be taken by researchers to increase this detection rate. Also, by increasing the rate of recovery a higher number of people are discharged from the hospitals quickly and hence the hospital capacity to accommodate infective people is not exceeded. Again, researchers can work towards increasing the recovery rate. 
 
 A concerned reader may investigate the provided information in determining which parameter(s) he or she can optimize in order to control and contain the COVID-19 outbreak in Sri Lanka.
 
