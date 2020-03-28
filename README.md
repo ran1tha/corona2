@@ -162,7 +162,7 @@ As of today (27th Marth 2020), there are,
 
 * 3549 people in quarantine centres
 
-### By the model derived earlier, here are the predictions for the next 50 days starting from 15th March 2020.
+### Predictions for the next 50 days starting from 15th March 2020.
 
 ![](images/HIRplot.png) <br>
 
