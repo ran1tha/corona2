@@ -12,6 +12,7 @@ The content discussed here is at large dependent on the information found on [pa
 
 To skip all the technicalities and go directly to the predictions [click here!](#pred "Goto Predictions").
 
+***“All models are wrong, but some are useful.” -Statistician George Box***
 
 ##
 
