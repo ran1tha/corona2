@@ -3,6 +3,8 @@
 [Matlab r2020] <br>
 Published on: 28/03/2020
 
+***“All models are wrong, but some are useful.” -Statistician George Box***
+<br>
 
 This repository is based on an extension of the model developed [here](https://github.com/ran1tha/corona). <br>
 
@@ -12,7 +14,6 @@ The content discussed here is at large dependent on the information found on [pa
 
 To skip all the technicalities and go directly to the predictions [click here!](#pred "Goto Predictions").
 
-***“All models are wrong, but some are useful.” -Statistician George Box***
 
 ##
 
